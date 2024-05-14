@@ -1,0 +1,14 @@
+.tienda { /* Assuming a class 'tienda' is added to the "Tienda" paragraph */
+    font-weight: bold; /* Make "Tienda" bold */
+  }
+  
+.direccion { /* Assuming a class 'direccion' is added to the "Dirección" paragraph */
+    margin-top: 0; /* Remove default margin-top */
+}
+
+img {
+    width: max-content;
+}
+div {
+    width: 350px;
+}  

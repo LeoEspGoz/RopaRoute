@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-validator": "^7.0.1",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.9.4"
+  },
+  "name": "roparoute",
+  "version": "1.0.0",
+  "main": "./backend/Main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "description": ""
+}
